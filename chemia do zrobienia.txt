@@ -1,0 +1,22 @@
+Projekt Chemia:
+Do zrobienia:
+- zmiana divów z pierwiastkami na buttony
+- dodanie onclick="info()" do pierwsiastków buttonów
+- dodanie id="divN" do każdego pierwiastka buttona gdzie N = Numer Pierwiastka
+- dodanie klasy N do tekstów <small> w pierwiastkach gdzie N = Numer Pierwiastka
+- uzupełnienie dalszych pierwiastków wedle wzoru "wzór js", informacje brać z ptable.com
+
+Wzór js:
+                                } else if (pierwiastek == "8" || pierwiastek == "div8"){
+                                    value1 = "Nazwa: Tlen";
+                                    value2 = "Symbol: O";
+                                    value3 = "Typ: Niemetale";
+                                    value4 = "Masa Atomowa: 15,999u";
+                                    value5 = "Powłoki Elektronowe: 2, 6";
+                                    value6 = "Elektroujemność: " + "3,44";
+                                    value7 = "Stan Skupienia w 0°C: " + "Gaz";
+                                    value8 = "Temperatura Topnienia: " + "-218°C";
+                                    value9 = "Temperatura Wrzenia: " + "-183°C";
+                                    value10 = "Odkowony: " + "1774 n.e.";
+                                    changeinfo();
+                                }
