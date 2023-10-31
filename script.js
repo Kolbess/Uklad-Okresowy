@@ -59,7 +59,7 @@ function info() {
                     value7 = "Stan Skupienia w 0°C: " + "Ciało stałe";
                     value8 = "Temperatura Topnienia: " + "1287°C";
                     value9 = "Temperatura Wrzenia: " + "2470°C";
-                    value10 = "Odkowany: " + "1797 p.n.e.";
+                    value10 = "Odkryty: " + "1797 p.n.e.";
                     changeinfo();
                     } else if (pierwiastek == "5" || pierwiastek == "div5"){
                         value1 = "Nazwa: Bor";
@@ -71,7 +71,7 @@ function info() {
                         value7 = "Stan Skupienia w 0°C: " + "Ciało stałe";
                         value8 = "Temperatura Topnienia: " + "2075°C";
                         value9 = "Temperatura Wrzenia: " + "4000°C";
-                        value10 = "Odkowany: " + "1808 n.e.";
+                        value10 = "Odkryty: " + "1808 n.e.";
                         changeinfo();
                         } else if (pierwiastek == "6" || pierwiastek == "div6"){
                             value1 = "Nazwa: Węgiel";
@@ -83,7 +83,7 @@ function info() {
                             value7 = "Stan Skupienia w 0°C: " + "Ciało stałe";
                             value8 = "Temperatura Topnienia: " + "3642°C";
                             value9 = "Temperatura Wrzenia: " + "3642°C";
-                            value10 = "Odkowany: " + "3750 p.n.e.";
+                            value10 = "Odkryty: " + "3750 p.n.e.";
                             changeinfo();
                             } else if (pierwiastek == "7" || pierwiastek == "div7"){
                                 value1 = "Nazwa: Azot";
@@ -95,7 +95,7 @@ function info() {
                                 value7 = "Stan Skupienia w 0°C: " + "Gaz";
                                 value8 = "Temperatura Topnienia: " + "-210,1°C";
                                 value9 = "Temperatura Wrzenia: " + "-195,8°C";
-                                value10 = "Odkowany: " + "1772 n.e.";
+                                value10 = "Odkryty: " + "1772 n.e.";
                                 changeinfo();
                                 } else if (pierwiastek == "8" || pierwiastek == "div8"){
                                     value1 = "Nazwa: Tlen";
@@ -107,12 +107,109 @@ function info() {
                                     value7 = "Stan Skupienia w 0°C: " + "Gaz";
                                     value8 = "Temperatura Topnienia: " + "-218°C";
                                     value9 = "Temperatura Wrzenia: " + "-183°C";
-                                    value10 = "Odkowony: " + "1774 n.e.";
+                                    value10 = "Odkryty: " + "1774 n.e.";
                                     changeinfo();
-                                }
+                                    } else if (pierwiastek == "9" || pierwiastek == "div9"){
+                                        value1 = "Nazwa: Flour";
+                                        value2 = "Symbol: F";
+                                        value3 = "Typ: Niemetale";
+                                        value4 = "Masa Atomowa: 18,988u";
+                                        value5 = "Powłoki Elektronowe: 2, 7";
+                                        value6 = "Elektroujemność: " + "3,98";
+                                        value7 = "Stan Skupienia w 0°C: " + "Gaz";
+                                        value8 = "Temperatura Topnienia: " + "-220°C";
+                                        value9 = "Temperatura Wrzenia: " + "-188,1°C";
+                                        value10 = "Odkryty: " + "1886 n.e.";
+                                        changeinfo();
+                                        } else if (pierwiastek == "10" || pierwiastek == "div10"){
+                                            value1 = "Nazwa: Neon";
+                                            value2 = "Symbol: Ne";
+                                            value3 = "Typ: Helowce";
+                                            value4 = "Masa Atomowa: 20,1797u";
+                                            value5 = "Powłoki Elektronowe: 2, 8";
+                                            value6 = "Elektroujemność: " + "N/A";
+                                            value7 = "Stan Skupienia w 0°C: " + "Gaz";
+                                            value8 = "Temperatura Topnienia: " + "-248,6°C";
+                                            value9 = "Temperatura Wrzenia: " + "-246,1°C";
+                                            value10 = "Odkryty: " + "1898 n.e.";
+                                            changeinfo();
+                                            } else if (pierwiastek == "11" || pierwiastek == "div11"){
+                                                value1 = "Nazwa: Sód";
+                                                value2 = "Symbol: Na";
+                                                value3 = "Typ: Litowce";
+                                                value4 = "Masa Atomowa: 22,9898u";
+                                                value5 = "Powłoki Elektronowe: 2, 8, 1";
+                                                value6 = "Elektroujemność: " + "0,93";
+                                                value7 = "Stan Skupienia w 0°C: " + "Ciało stałe";
+                                                value8 = "Temperatura Topnienia: " + "97,720°C";
+                                                value9 = "Temperatura Wrzenia: " + "882,9°C";
+                                                value10 = "Odkryty: " + "1807 n.e.";
+                                                changeinfo();
+                                                } else if (pierwiastek == "12" || pierwiastek == "div12"){
+                                                    value1 = "Nazwa: Magnez";
+                                                    value2 = "Symbol: Mg";
+                                                    value3 = "Typ: Berylowce";
+                                                    value4 = "Masa Atomowa: 24,305u";
+                                                    value5 = "Powłoki Elektronowe: 2, 8, 2";
+                                                    value6 = "Elektroujemność: " + "1,31";
+                                                    value7 = "Stan SKupienia w 0°C: Ciało stałe"
+                                                    value8 = "Temperatura Topnienia: " + "650°C";
+                                                    value9 = "Temperatura Wrzenia: " + "1090°C";
+                                                    value10 = "Odkryty: " + "1755 n.e.";
+                                                    changeinfo();
+                                                    } else if (pierwiastek == "13" || pierwiastek == "div13"){
+                                                        value1 = "Nazwa: Glin";
+                                                        value2 = "Symbol: Al";
+                                                        value3 = "Typ: Metale Nieszlachetne";
+                                                        value4 = "Masa Atomowa: 26,9815384u";
+                                                        value5 = "Powłoki Elektronowe: 2, 8, 3";
+                                                        value6 = "Elektroujemność: 1,61";
+                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                        value8 = "Temperatura Topnienia: 660,32°C";
+                                                        value9 = "Temperatura Wrzenia: 2519°C";
+                                                        value10 = "Odkryty: 1825 n.e.";
+                                                        changeinfo();
+                                                        } else if (pierwiastek == "14" || pierwiastek == "div14"){
+                                                            value1 = "Nazwa: Krzem";
+                                                            value2 = "Symbol: Si";
+                                                            value3 = "Typ: Półmetale";
+                                                            value4 = "Masa Atomowa: 28,085u";
+                                                            value5 = "Powłoki Elektronowe: 2, 8, 4";
+                                                            value6 = "Elektroujemność: 1,90";
+                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                            value8 = "Temperatura Topnienia: 1414°C";
+                                                            value9 = "Temperatura Wrzenia: 2900°C";
+                                                            value10 = "Odkryty: 1824 n.e.";
+                                                            changeinfo();
+                                                            } else if (pierwiastek == "15" || pierwiastek == "div15"){
+                                                                value1 = "Nazwa: Fosfor";
+                                                                value2 = "Symbol: P";
+                                                                value3 = "Typ: Niemetale";
+                                                                value4 = "Masa Atomowa: 30,9738u";
+                                                                value5 = "Powłoki Elektronowe: 2, 8, 5";
+                                                                value6 = "Elektroujemność: 2,19";
+                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                value8 = "Temperatura Topnienia: 44,15°C";
+                                                                value9 = "Temperatura Wrzenia: 280,5°C";
+                                                                value10 = "Odkryty: 1669 n.e.";
+                                                                changeinfo();
+                                                                } else if (pierwiastek == "16" || pierwiastek == "div16"){
+                                                                    value1 = "Nazwa: Siarka";
+                                                                    value2 = "Symbol: S";
+                                                                    value3 = "Typ: Niemetale";
+                                                                    value4 = "Masa Atomowa: 32,06u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 6";
+                                                                    value6 = "Elektroujemność: 2,58";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 115.21°C";
+                                                                    value9 = "Temperatura Wrzenia: 444,72°C";
+                                                                    value10 = "Odkryty: 500 p.n.e.";
+                                                                    changeinfo();
+                                                                }
 
 
-};
+                                                    }
+
     
     function changeinfo() {
         document.getElementById('Nazwa').textContent = value1;
