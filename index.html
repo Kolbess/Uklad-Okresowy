@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Układ Okresowy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="ptable">
+        <div class="htable">
+            <button onclick="info()" id="div1" class="div1 element">
+                H
+                <small class="1 description">Wodór</small>
+                <small class="1 upper">1</small>
+            </button>
+            <button onclick="info()" id="div2" class="div2 element">
+                He 
+                <small class="2 description">Hel</small>
+                <small class="2 upper">2</small>
+            </button>
+            <button onclick="info()" class="div3 element" id="div3">
+                Li 
+                <small class="3 description">Lit</small>
+                <small class="3 upper">3</small>
+            </button>
+            <button onclick="info()" class="div4 element" id="div4">
+                Be 
+                <small class="4 description">Beryl</small>
+                <small class="4 upper">4</small>
+            </button>
+            <button onclick="info()" id="div5" class="div5 element">B 
+                <small class="5 description">Bor</small>
+                <small class="5 upper">5</small>
+            </button>
+            <button onclick="info()" id="div6" class="div6 element">C 
+                <small class="6 description">Węgiel</small>
+                <small class="6 upper">6</small>
+            </button>
+            <button onclick="info()" id="div7" class="div7 element">N 
+                <small class="7 description">Azot</small>
+                <small class="7 upper">7</small>
+            </button>
+            <button onclick="info()" id="div8" class="div8 element">O 
+                <small class="8 description">Tlen</small>
+                <small class="8 upper">8</small>
+            </button>
+            <div class="div9 element">F 
+                <small class="9 description">Fluor</small>
+                <small class="9 upper">9</small>
+            </div>
+            <div class="div10 element">Ne 
+                <small class="10 description">Neon</small>
+                <small class="10 upper">10</small>
+            </div>
+            <div class="div11 element">Na 
+                <small class="11 description">Sód</small>
+                <small class="11 upper">11</small>
+            </div>
+            <div class="div12 element">Mg 
+                <small class="12 description">Magnez</small>
+                <small class="12 upper">12</small>
+            </div>
+            <div class="div13 element">Al 
+                <small class="13 description">Glin</small>
+                <small class="13 upper">13</small>
+            </div>
+            <div class="div14 element">Si 
+                <small class="14 description">Krzem</small>
+                <small class="14 upper">14</small>
+            </div>
+            <div class="div15 element">P 
+                <small class="15 description">Fosfor</small>
+                <small class="15 upper">15</small>
+            </div>
+            <div class="div16 element">S
+                <small class="16 description">Siarka</small>
+                <small class="16 upper">16</small>
+            </div>
+            <div class="div17 element">Cl
+                <small class="description">Chlor</small>
+                <small class="upper">17</small>
+            </div>
+            <div class="div18 element">Ar
+                <small class="description">Argon</small>
+                <small class="upper">18</small>
+            </div>
+            <div class="div19 element">K
+                <small class="description">Potas</small>
+                <small class="upper">19</small>
+            </div>
+            <div class="div20 element">Ca
+                <small class="description">Wapń</small>
+                <small class="upper">20</small>
+            </div>
+            <div class="div21 element">Sc
+                <small class="description">Skand</small>
+                <small class="upper">21</small>
+            </div>
+            <div class="div22 element">Ti
+                <small class="description">Tytan</small>
+                <small class="upper">22</small>
+            </div>
+            <div class="div23 element">V
+                <small class="description">Wanad</small>
+                <small class="upper">23</small>
+            </div>
+            <div class="div24 element">Cr
+                <small class="description">Chrom</small>
+                <small class="upper">24</small>
+            </div>
+            <div class="div25 element">Mn
+                <small class="description">Mangan</small>
+                <small class="upper">25</small>
+            </div>
+            <div class="div26 element">Fe 
+                <small class="description">Żelazo</small>
+                <small class="upper">26</small>
+            </div>
+            <div class="div27 element">Co
+                <small class="description">Kobalt</small>
+                <small class="upper">27</small>
+            </div>
+            <div class="div28 element">Ni
+                <small class="description">Nikiel</small>
+                <small class="upper">28</small>
+            </div>
+            <div class="div29 element">Cu
+                <small class="description">Miedź</small>
+                <small class="upper">29</small>
+            </div>
+            <div class="div30 element">Zn
+                <small class="description">Cynk</small>
+                <small class="upper">30</small>
+            </div>
+            <div class="div31 element">Ga
+                <small class="description">Gal</small>
+                <small class="upper">31</small>
+            </div>
+            <div class="div32 element">Ge
+                <small class="description">German</small>
+                <small class="upper">32</small>
+            </div>
+            <div class="div33 element">As
+                <small class="description">Arsen</small>
+                <small class="upper">33</small>
+            </div>
+            <div class="div34 element">Se
+                <small class="description">Selen</small>
+                <small class="upper">34</small>
+            </div>
+            <div class="div35 element">Br
+                <small class="description">Brom</small>
+                <small class="upper">35</small>
+            </div>
+            <div class="div36 element">Kr
+                <small class="description">Krypton</small>
+                <small class="upper">36</small>
+            </div>
+            <div class="div37 element">Rb
+                <small class="description">Rubid</small>
+                <small class="upper">37</small>
+            </div>
+            <div class="div38 element">Sr
+                <small class="description">Stront</small>
+                <small class="upper">38</small>
+            </div>
+            <div class="div39 element">Y
+                <small class="description">Itr</small>
+                <small class="upper">39</small>
+            </div>
+            <div class="div40 element">Zr
+                <small class="description">Cyrkon</small>
+                <small class="upper">40</small>
+            </div>
+            <div class="div41 element">Nb
+                <small class="description">Niob</small>
+                <small class="upper">41</small>
+            </div>
+            <div class="div42 element">Mo
+                <small class="description">Molibden</small>
+                <small class="upper">42</small>
+            </div>
+            <div class="div43 element">Tc
+                <small class="description">Technet</small>
+                <small class="upper">43</small>
+            </div>
+            <div class="div44 element">Ru
+                <small class="description">Ruten</small>
+                <small class="upper">44</small>
+            </div>
+            <div class="div45 element">Rh
+                <small class="description">Rod</small>
+                <small class="upper">45</small>
+            </div>
+            <div class="div46 element">Pd
+                <small class="description">Pallad</small>
+                <small class="upper">46</small>
+            </div>
+            <div class="div47 element">Ag
+                <small class="description">Srebro</small>
+                <small class="upper">47</small>
+            </div>
+            <div class="div48 element">Cd
+                <small class="description">Kadm</small>
+                <small class="upper">48</small>
+            </div>
+            <div class="div49 element">In
+                <small class="description">Ind</small>
+                <small class="upper">49</small>
+            </div>
+            <div class="div50 element">Sn
+                <small class="description">Cyna</small>
+                <small class="upper">50</small>
+            </div>
+            <div class="div51 element">Sb
+                <small class="description">Antymon</small>
+                <small class="upper">51</small>
+            </div>
+            <div class="div52 element">Te
+                <small class="description">Tellur</small>
+                <small class="upper">52</small>
+            </div>
+            <div class="div53 element">I
+                <small class="description">Jod</small>
+                <small class="upper">53</small>
+            </div>
+            <div class="div54 element">Xe
+                <small class="description">Xenon</small>
+                <small class="upper">54</small>
+            </div>
+            <div class="div55 element">Cs
+                <small class="description">Cez</small>
+                <small class="upper">55</small>
+            </div>
+            <div class="div56 element">Ba
+                <small class="description">Bar</small>
+                <small class="upper">56</small>
+            </div>
+            <div class="div57 element">La
+                <small class="description">Lantan</small>
+                <small class="upper">57</small>
+            </div>
+            <div class="div72 element">Hf
+                <small class="description">Hafn</small>
+                <small class="upper">72</small>
+            </div>
+            <div class="div73 element">Ta
+                <small class="description">Tantal</small>
+                <small class="upper">73</small>
+            </div>
+            <div class="div74 element">W
+                <small class="description">Wolfram</small>
+                <small class="upper">74</small>
+            </div>
+            <div class="div75 element">Re
+                <small class="description">Ren</small>
+                <small class="upper">75</small>
+            </div>
+            <div class="div76 element">Os
+                <small class="description">Osm</small>
+                <small class="upper">76</small>
+            </div>
+            <div class="div77 element">Ir
+                <small class="description">Iryd</small>
+                <small class="upper">77</small>
+            </div>
+            <div class="div78 element">Pt
+                <small class="description">Platyna</small>
+                <small class="upper">78</small>
+            </div>
+            <div class="div79 element">Au
+                <small class="description">Złoto</small>
+                <small class="upper">79</small>
+            </div>
+            <div class="div80 element">Hg
+                <small class="description">Rtęć</small>
+                <small class="upper">80</small>
+            </div>
+            <div class="div81 element">Tl
+                <small class="description">Tal</small>
+                <small class="upper">81</small>
+            </div>
+            <div class="div82 element">Pb
+                <small class="description">Ołów</small>
+                <small class="upper">82</small>
+            </div>
+            <div class="div83 element">Bi
+                <small class="description">Bismut</small>
+                <small class="upper">83</small>
+            </div>
+            <div class="div84 element">Po
+                <small class="description">Polon</small>
+                <small class="upper">84</small>
+            </div>
+            <div class="div85 element">At
+                <small class="description">Astat</small>
+                <small class="upper">85</small>
+            </div>
+            <div class="div86 element">Rn
+                <small class="description">Radon</small>
+                <small class="upper">86</small>
+            </div>
+            <div class="div87 element">Fr
+                <small class="description">Frans</small>
+                <small class="upper">87</small>
+            </div>
+            <div class="div88 element">Ra
+                <small class="description">Rad</small>
+                <small class="upper">88</small>
+            </div>
+            <div class="div89 element">Ac
+                <small class="description">Aktyn</small>
+                <small class="upper">89</small>
+            </div>
+            <div class="div104 element">Rf
+                <small class="description">Rutherford</small>
+                <small class="upper">104</small>
+            </div>
+            <div class="div105 element">Db
+                <small class="description">Dubn</small>
+                <small class="upper">105</small>
+            </div>
+            <div class="div106 element">Sg
+                <small class="description">Seaborg</small>
+                <small class="upper">106</small>
+            </div>
+            <div class="div107 element">Bh
+                <small class="description">Bohr</small>
+                <small class="upper">107</small>
+            </div>
+            <div class="div108 element">Hs
+                <small class="description">Has</small>
+                <small class="upper">108</small>
+            </div>
+            <div class="div109 element">Mt
+                <small class="description">Meitner</small>
+                <small class="upper">109</small>
+            </div>
+            <div class="div110 element">Ds
+                <small class="description">Darmsztadt</small>
+                <small class="upper">110</small>
+            </div>
+            <div class="div111 element">Rg
+                <small class="description">Roentgen</small>
+                <small class="upper">111</small>
+            </div>
+            <div class="div112 element">Cn
+                <small class="description">Kopernik</small>
+                <small class="upper">112</small>
+            </div>
+            <div class="div113 element">Nh
+                <small class="description">Nihon</small>
+                <small class="upper">113</small>
+            </div>
+            <div class="div114 element">Fl
+                <small class="description">Flerow</small>
+                <small class="upper">114</small>
+            </div>
+            <div class="div115 element">Mc
+                <small class="description">Moskow</small>
+                <small class="upper">115</small>
+            </div>
+            <div class="div116 element">Lv
+                <small class="description">Livermor</small>
+                <small class="upper">116</small>
+            </div>
+            <div class="div117 element">Ts
+                <small class="description">Tenes</small>
+                <small class="upper">117</small>
+            </div>
+            <div class="div118 element">Og
+                <small class="description">Oganeson</small>
+                <small class="upper">118</small>
+            </div>
+        </div>
+        <div class="ltable">
+            <div class="div58 element">Ce
+                <small class="description">Cer</small>
+                <small class="upper">58</small>
+            </div>
+            <div class="div59 element">Pr
+                <small class="description">Prazeodym</small>
+                <small class="upper">59</small>
+            </div>
+            <div class="div60 element">Nd
+                <small class="description">Neodym</small>
+                <small class="upper">60</small>
+            </div>
+            <div class="div61 element">Pm
+                <small class="description">Promet</small>
+                <small class="upper">61</small>
+            </div>
+            <div class="div62 element">Sm
+                <small class="description">Samar</small>
+                <small class="upper">62</small>
+            </div>
+            <div class="div63 element">Eu
+                <small class="description">Europ</small>
+                <small class="upper">63</small>
+            </div>
+            <div class="div64 element">Gd
+                <small class="description">Gadolin</small>
+                <small class="upper">64</small>
+            </div>
+            <div class="div65 element">Tb
+                <small class="description">Terb</small>
+                <small class="upper">65</small>
+            </div>
+            <div class="div66 element">Dy
+                <small class="description">Dysproz</small>
+                <small class="upper">66</small>
+            </div>
+            <div class="div67 element">Ho
+                <small class="description">Holm</small>
+                <small class="upper">67</small>
+            </div>
+            <div class="div68 element">Er
+                <small class="description">Erb</small>
+                <small class="upper">68</small>
+            </div>
+            <div class="div69 element">Tm
+                <small class="description">Tul</small>
+                <small class="upper">69</small>
+            </div>
+            <div class="div70 element">Yb
+                <small class="description">Iterb</small>
+                <small class="upper">70</small>
+            </div>
+            <div class="div71 element">Lu
+                <small class="description">Lutet</small>
+                <small class="upper">71</small>
+            </div>
+            <div class="div90 element">Th
+                <small class="description">Thor</small>
+                <small class="upper">90</small>
+            </div>
+            <div class="div91 element">Pa
+                <small class="description">Protaktyn</small>
+                <small class="upper">91</small>
+            </div>
+            <div class="div92 element">U
+                <small class="description">Uran</small>
+                <small class="upper">92</small>
+            </div>
+            <div class="div93 element">Np
+                <small class="description">Neptun</small>
+                <small class="upper">93</small>
+            </div>
+            <div class="div94 element">Pu
+                <small class="description">Pluton</small>
+                <small class="upper">94</small>
+            </div>
+            <div class="div95 element">Am
+                <small class="description">Ameryk</small>
+                <small class="upper">95</small>
+            </div>
+            <div class="div96 element">Cm
+                <small class="description">Kiur</small>
+                <small class="upper">96</small>
+            </div>
+            <div class="div97 element">Bk
+                <small class="description">Berkel</small>
+                <small class="upper">97</small>
+            </div>
+            <div class="div98 element">Cf
+                <small class="description">Kaliforn</small>
+                <small class="upper">98</small>
+            </div>
+            <div class="div99 element">Es
+                <small class="description">Einstein</small>
+                <small class="upper">99</small>
+            </div>
+            <div class="div100 element">Fm
+                <small class="description">Ferm</small>
+                <small class="upper">100</small>
+            </div>
+            <div class="div101 element">Md
+                <small class="description">Mendelew</small>
+                <small class="upper">101</small>
+            </div>
+            <div class="div102 element">No
+                <small class="description">Nobel</small>
+                <small class="upper">102</small>
+            </div>
+            <div class="div103 element">Lr
+                <small class="description">Lorens</small>
+                <small class="upper">103</small>
+            </div>
+        </div>
+        <div class="info" id="info">
+            <h1 class="hinfo">Informacje</h1>
+            <div class="description_info">
+                <div class="linfo">
+                    <p id="Nazwa">Nazwa:</p><br>
+                    <p id="Symbol">Symbol:</p><br>
+                    <p id="Typ">Typ:</p><br>
+                    <p id="Masa">Masa Atomowa:</p><br>
+                    <p id="Powloki">Powłoki Elektronowe:</p><br>
+                </div>
+                <div class="rinfo">
+                    <p id="Elektroujemnosc">Elektroujemność:</p><br>
+                    <p id="Stan">Stan Skupienia w 0°C:</p>
+                    <p id="Topnienie">Temperatura Topnienia:</p>
+                    <p id="Wrzenie">Temperatura Wrzenia:</p>
+                    <p id="Odkryty">Odkryty:</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
