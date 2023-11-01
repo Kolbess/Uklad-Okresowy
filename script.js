@@ -152,7 +152,7 @@ function info() {
                                                     value4 = "Masa Atomowa: 24,305u";
                                                     value5 = "Powłoki Elektronowe: 2, 8, 2";
                                                     value6 = "Elektroujemność: " + "1,31";
-                                                    value7 = "Stan SKupienia w 0°C: Ciało stałe"
+                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe"
                                                     value8 = "Temperatura Topnienia: " + "650°C";
                                                     value9 = "Temperatura Wrzenia: " + "1090°C";
                                                     value10 = "Odkryty: " + "1755 n.e.";

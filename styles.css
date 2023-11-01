@@ -11,13 +11,13 @@ button {
     color: #EAEAEA;
     height: 18.75rem;
     width: 56.25rem;
-    margin-top: 1.563rem;
+    margin: auto;
 }
 
 .hinfo {
     display: flex;
     justify-content: space-evenly;
-    padding: 0 4.375em;
+    padding: 0.6125rem;
 }
 
 .linfo {
