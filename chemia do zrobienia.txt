@@ -5,8 +5,8 @@ Do zrobienia:
 - uzupełnienie dalszych pierwiastków wedle wzoru "wzór js", informacje brać z ptable.com
 
 Pierwiastki do zrobienia w js:
-Mateusz - 17 -> 46
-Filip 47 -> 68
+Filip - 17 -> 46
+Mateusz 47 -> 68
 Rafał 69 -> 118
 
 Wzór js:
