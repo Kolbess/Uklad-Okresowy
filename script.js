@@ -625,13 +625,217 @@ function info() {
                                                                     value9 = "Temperatura Wrzenia: 1587°C";
                                                                     value10 = "Odkryty: 3000 p.n.e.";
                                                                     changeinfo();
+                                                                } else if (pierwiastek == "52" || pierwiastek == "div52"){
+                                                                    value1 = "Nazwa: Tellur";
+                                                                    value2 = "Symbol: Te";
+                                                                    value3 = "Typ: Półmetale";
+                                                                    value4 = "Masa Atomowa: 127,60u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 6";
+                                                                    value6 = "Elektroujemność: 2,1";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 449,51°C";
+                                                                    value9 = "Temperatura Wrzenia: 987,9°C";
+                                                                    value10 = "Odkryty: 1783 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "53" || pierwiastek == "div53"){
+                                                                    value1 = "Nazwa: Jod";
+                                                                    value2 = "Symbol: I";
+                                                                    value3 = "Typ: Niemetale";
+                                                                    value4 = "Masa Atomowa: 126,90447u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 7";
+                                                                    value6 = "Elektroujemność: 2,66";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 113,70°C";
+                                                                    value9 = "Temperatura Wrzenia: 184,3°C";
+                                                                    value10 = "Odkryty: 1811 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "54" || pierwiastek == "div54"){
+                                                                    value1 = "Nazwa: Xenon";
+                                                                    value2 = "Symbol: Xe";
+                                                                    value3 = "Typ: Helowce";
+                                                                    value4 = "Masa Atomowa: 131,293u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 8";
+                                                                    value6 = "Elektroujemność: 2,6";
+                                                                    value7 = "Stan Skupienia w 0°C: Gaz";
+                                                                    value8 = "Temperatura Topnienia: -111,8°C";
+                                                                    value9 = "Temperatura Wrzenia: -108°C";
+                                                                    value10 = "Odkryty: 1898 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "55" || pierwiastek == "div55"){
+                                                                    value1 = "Nazwa: Cez";
+                                                                    value2 = "Symbol: Cs";
+                                                                    value3 = "Typ: Litowce";
+                                                                    value4 = "Masa Atomowa: 132,9u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 8, 1";
+                                                                    value6 = "Elektroujemność: 0,79";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 28,440°C";
+                                                                    value9 = "Temperatura Wrzenia: 671°C";
+                                                                    value10 = "Odkryty: 1860 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "56" || pierwiastek == "div56"){
+                                                                    value1 = "Nazwa: Bar";
+                                                                    value2 = "Symbol: Ba";
+                                                                    value3 = "Typ: Berylowce";
+                                                                    value4 = "Masa Atomowa: 137,327u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 8, 2";
+                                                                    value6 = "Elektroujemność: 0,89";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 730°C";
+                                                                    value9 = "Temperatura Wrzenia: 1870°C";
+                                                                    value10 = "Odkryty: 1808 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "57" || pierwiastek == "div57"){
+                                                                    value1 = "Nazwa: Lantan";
+                                                                    value2 = "Symbol: La";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 138,9u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 9, 2";
+                                                                    value6 = "Elektroujemność: 1,10";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 919,9°C";
+                                                                    value9 = "Temperatura Wrzenia: 3464°C";
+                                                                    value10 = "Odkryty: 1839 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "58" || pierwiastek == "div58"){
+                                                                    value1 = "Nazwa: Cer";
+                                                                    value2 = "Symbol: Ce";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 140,116u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 19, 9, 2";
+                                                                    value6 = "Elektroujemność: 1,12";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 797,9°C";
+                                                                    value9 = "Temperatura Wrzenia: 3360°C";
+                                                                    value10 = "Odkryty: 1803 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "59" || pierwiastek == "div59"){
+                                                                    value1 = "Nazwa: Prazeodym";
+                                                                    value2 = "Symbol: Pr";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 140,9u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 21, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,13";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 930,9°C";
+                                                                    value9 = "Temperatura Wrzenia: 3290°C";
+                                                                    value10 = "Odkryty: 1885 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "60" || pierwiastek == "div60"){
+                                                                    value1 = "Nazwa: Neodym";
+                                                                    value2 = "Symbol: Nd";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 144,242u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 22, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,14";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1021°C";
+                                                                    value9 = "Temperatura Wrzenia: 3100°C";
+                                                                    value10 = "Odkryty: 1885 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "61" || pierwiastek == "div61"){
+                                                                    value1 = "Nazwa: Promet";
+                                                                    value2 = "Symbol: Pm";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 145u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 23, 8, 2";
+                                                                    value6 = "Elektroujemność: N/A";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1100°C";
+                                                                    value9 = "Temperatura Wrzenia: 3000°C";
+                                                                    value10 = "Odkryty: 1945 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "62" || pierwiastek == "div62"){
+                                                                    value1 = "Nazwa: Samar";
+                                                                    value2 = "Symbol: Sm";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 150,36u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 24, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,17";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1072°C";
+                                                                    value9 = "Temperatura Wrzenia: 1803°C";
+                                                                    value10 = "Odkryty: 1879 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "63" || pierwiastek == "div63"){
+                                                                    value1 = "Nazwa: Europ";
+                                                                    value2 = "Symbol: Eu";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 151,964u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 25, 8, 2";
+                                                                    value6 = "Elektroujemność: N/A";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 821,9°C";
+                                                                    value9 = "Temperatura Wrzenia: 1500°C";
+                                                                    value10 = "Odkryty: 1901 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "64" || pierwiastek == "div64"){
+                                                                    value1 = "Nazwa: Gadolin";
+                                                                    value2 = "Symbol: Gd";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 157,25u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 25, 9, 2";
+                                                                    value6 = "Elektroujemność: 1,20";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1313°C";
+                                                                    value9 = "Temperatura Wrzenia: 3250°C";
+                                                                    value10 = "Odkryty: 1880 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "65" || pierwiastek == "div65"){
+                                                                    value1 = "Nazwa: Terb";
+                                                                    value2 = "Symbol: Tb";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 158,93u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 27, 8, 2";
+                                                                    value6 = "Elektroujemność: N/A";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1356°C";
+                                                                    value9 = "Temperatura Wrzenia: 3230°C";
+                                                                    value10 = "Odkryty: 1843 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "66" || pierwiastek == "div66"){
+                                                                    value1 = "Nazwa: Dysproz";
+                                                                    value2 = "Symbol: Dy";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 162,5u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 28, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,22";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1412°C";
+                                                                    value9 = "Temperatura Wrzenia: 2567°C";
+                                                                    value10 = "Odkryty: 1886 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "67" || pierwiastek == "div67"){
+                                                                    value1 = "Nazwa: Holm";
+                                                                    value2 = "Symbol: Ho";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 164,93u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 29, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,23";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1474°C";
+                                                                    value9 = "Temperatura Wrzenia: 2700°C";
+                                                                    value10 = "Odkryty: 1878 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "68" || pierwiastek == "div68"){
+                                                                    value1 = "Nazwa: Erb";
+                                                                    value2 = "Symbol: Er";
+                                                                    value3 = "Typ: Lantanowce";
+                                                                    value4 = "Masa Atomowa: 167,259u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 30, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,24";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1497°C";
+                                                                    value9 = "Temperatura Wrzenia: 2868°C";
+                                                                    value10 = "Odkryty: 1842 n.e.";
+                                                                    changeinfo();
                                                                 } else if (pierwiastek == "69" || pierwiastek == "div69"){
                                                                     value1 = "Nazwa: Tul";
                                                                     value2 = "Symbol: Tm";
-                                                                    value3 = "Typ: metal";
+                                                                    value3 = "Typ: Lantanowce";
                                                                     value4 = "Masa Atomowa: 168,93u";
                                                                     value5 = "Powłoki Elektronowe: 2, 8, 18, 31, 8, 2";
-                                                                    value6 = "Elektroujemność: 1,,25";
+                                                                    value6 = "Elektroujemność: 1,25";
                                                                     value7 = "Stan Skupienia w 0°C: Ciało stałe";
                                                                     value8 = "Temperatura Topnienia: 1545°C";
                                                                     value9 = "Temperatura Wrzenia: 1950°C";
@@ -640,7 +844,7 @@ function info() {
                                                                     } else if (pierwiastek == "70" || pierwiastek == "div70") {
                                                                         value1 = "Nazwa: Iterb";
                                                                         value2 = "Symbol: Yb";
-                                                                        value3 = "Typ: Latynowiec";
+                                                                        value3 = "Typ: Lantanowce";
                                                                         value4 = "Masa Atomowa: 173,045 u";
                                                                         value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 8, 2";
                                                                         value6 = "Elektroujemność: 1,1";
@@ -652,7 +856,7 @@ function info() {
                                                                         } else if (pierwiastek == "71" || pierwiastek == "div71") {
                                                                             value1 = "Nazwa: Lutet";
                                                                             value2 = "Symbol: Lu";
-                                                                            value3 = "Typ: Latynowiec";
+                                                                            value3 = "Typ: Lantanowce";
                                                                             value4 = "Masa Atomowa: 175,047 u";
                                                                             value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 9, 2";
                                                                             value6 = "Elektroujemność: 1,27";
@@ -835,7 +1039,7 @@ function info() {
                                                                                                                                         value3 = "Typ: Gazy szlachetne";
                                                                                                                                         value4 = "Masa Atomowa: 222 u";
                                                                                                                                         value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 8";
-                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                        value6 = "Elektroujemność: N/A";
                                                                                                                                         value7 = "Stan Skupienia w 0°C: Gaz";
                                                                                                                                         value8 = "Temperatura Topnienia: -71°C";
                                                                                                                                         value9 = "Temperatura Wrzenia: -61,8°C";
@@ -1051,7 +1255,7 @@ function info() {
                                                                                                                                                                                                                 value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                 value4 = "Masa Atomowa: 267 u";
                                                                                                                                                                                                                 value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 10, 2";
-                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                 value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                 value8 = "Temperatura Topnienia: około 2400°C";
                                                                                                                                                                                                                 value9 = "Temperatura Wrzenia: Nieznane";
@@ -1063,7 +1267,7 @@ function info() {
                                                                                                                                                                                                                     value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                     value4 = "Masa Atomowa: 270 u";
                                                                                                                                                                                                                     value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 11, 2";
-                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                    value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                     value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                     value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                     value9 = "Temperatura Wrzenia: Nieznane";
@@ -1075,7 +1279,7 @@ function info() {
                                                                                                                                                                                                                         value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                         value4 = "Masa Atomowa: 269 u";
                                                                                                                                                                                                                         value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 12, 2";
-                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                        value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                         value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                         value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                         value9 = "Temperatura Wrzenia: Nieznane";
@@ -1087,7 +1291,7 @@ function info() {
                                                                                                                                                                                                                             value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                             value4 = "Masa Atomowa: 270 u";
                                                                                                                                                                                                                             value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 13, 2";
-                                                                                                                                                                                                                            value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                            value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                             value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                             value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                             value9 = "Temperatura Wrzenia: Nieznane";
@@ -1099,7 +1303,7 @@ function info() {
                                                                                                                                                                                                                                 value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                                 value4 = "Masa Atomowa: 277 u";
                                                                                                                                                                                                                                 value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 14, 2";
-                                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                 value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                 value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                                 value9 = "Temperatura Wrzenia: Nieznane";
@@ -1111,7 +1315,7 @@ function info() {
                                                                                                                                                                                                                                     value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                                     value4 = "Masa Atomowa: 278 u";
                                                                                                                                                                                                                                     value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 15, 2";
-                                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                    value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                     value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                     value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                                     value9 = "Temperatura Wrzenia: Nieznane";
@@ -1123,7 +1327,7 @@ function info() {
                                                                                                                                                                                                                                         value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                                         value4 = "Masa Atomowa: 281 u";
                                                                                                                                                                                                                                         value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 17, 1";
-                                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                        value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                         value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                         value8 = "Temperatura Topnienia: nieznana";
                                                                                                                                                                                                                                         value9 = "Temperatura Wrzenia: nieznana";
@@ -1135,7 +1339,7 @@ function info() {
                                                                                                                                                                                                                                             value3 = "Typ: Aktynowce";
                                                                                                                                                                                                                                             value4 = "Masa Atomowa: 280 u";
                                                                                                                                                                                                                                             value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 17, 2";
-                                                                                                                                                                                                                                            value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                            value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                             value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                             value8 = "Temperatura Topnienia: nieznana";
                                                                                                                                                                                                                                             value9 = "Temperatura Wrzenia: nieznana";
@@ -1147,7 +1351,7 @@ function info() {
                                                                                                                                                                                                                                                 value3 = "Typ: Metale przejściowe";
                                                                                                                                                                                                                                                 value4 = "Masa Atomowa: 285 u";
                                                                                                                                                                                                                                                 value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 2";
-                                                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                 value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                 value8 = "Temperatura Topnienia: nieznana";
                                                                                                                                                                                                                                                 value9 = "Temperatura Wrzenia: nieznana";
@@ -1159,7 +1363,7 @@ function info() {
                                                                                                                                                                                                                                                     value3 = "Typ: Metale przejściowe";
                                                                                                                                                                                                                                                     value4 = "Masa Atomowa: 284 u";
                                                                                                                                                                                                                                                     value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 3";
-                                                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                    value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                     value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                     value8 = "Temperatura Topnienia: nieznana";
                                                                                                                                                                                                                                                     value9 = "Temperatura Wrzenia: nieznana";
@@ -1171,7 +1375,7 @@ function info() {
                                                                                                                                                                                                                                                         value3 = "Typ: Metale przejściowe";
                                                                                                                                                                                                                                                         value4 = "Masa Atomowa: 289 u";
                                                                                                                                                                                                                                                         value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 4";
-                                                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                        value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                         value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                         value8 = "Temperatura Topnienia: nieznana";
                                                                                                                                                                                                                                                         value9 = "Temperatura Wrzenia: nieznana";
@@ -1183,7 +1387,7 @@ function info() {
                                                                                                                                                                                                                                                             value3 = "Typ: Superaktynowce";
                                                                                                                                                                                                                                                             value4 = "Masa Atomowa: 289 u";
                                                                                                                                                                                                                                                             value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 5";
-                                                                                                                                                                                                                                                            value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                            value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                             value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                             value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                                                             value9 = "Temperatura Wrzenia: Nieznane";
@@ -1195,7 +1399,7 @@ function info() {
                                                                                                                                                                                                                                                                 value3 = "Typ: Superaktynowce";
                                                                                                                                                                                                                                                                 value4 = "Masa Atomowa: 293 u";
                                                                                                                                                                                                                                                                 value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 6";
-                                                                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                                value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                                 value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                                 value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                                                                 value9 = "Temperatura Wrzenia: Nieznane";
@@ -1207,7 +1411,7 @@ function info() {
                                                                                                                                                                                                                                                                     value3 = "Typ: Superaktynowce";
                                                                                                                                                                                                                                                                     value4 = "Masa Atomowa: 294 u";
                                                                                                                                                                                                                                                                     value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 7";
-                                                                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                                    value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                                     value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                                     value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                                                                     value9 = "Temperatura Wrzenia: Nieznane";
@@ -1219,13 +1423,14 @@ function info() {
                                                                                                                                                                                                                                                                         value3 = "Typ: Superaktynowce";
                                                                                                                                                                                                                                                                         value4 = "Masa Atomowa: 294 u";
                                                                                                                                                                                                                                                                         value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 8";
-                                                                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                                        value6 = "Elektroujemność: N/A";
                                                                                                                                                                                                                                                                         value7 = "Stan Skupienia w 0°C: Nieznane";
                                                                                                                                                                                                                                                                         value8 = "Temperatura Topnienia: Nieznane";
                                                                                                                                                                                                                                                                         value9 = "Temperatura Wrzenia: Nieznane";
                                                                                                                                                                                                                                                                         value10 = "Odkryty: 2002 n.e";
                                                                                                                                                                                                                                                                         changeinfo();
                                                                                                                                                                                                                                                                         }
+                                                                                                                                                                                                                                                                    }
 
     
     function changeinfo() {
