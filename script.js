@@ -625,16 +625,607 @@ function info() {
                                                                     value9 = "Temperatura Wrzenia: 1587°C";
                                                                     value10 = "Odkryty: 3000 p.n.e.";
                                                                     changeinfo();
-                                                                }
-
-                                                                
-                                                                    
-                                                                
-                                                                
-                                                                
-
-
-                                                    }
+                                                                } else if (pierwiastek == "69" || pierwiastek == "div69"){
+                                                                    value1 = "Nazwa: Tul";
+                                                                    value2 = "Symbol: Tm";
+                                                                    value3 = "Typ: metal";
+                                                                    value4 = "Masa Atomowa: 168,93u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 31, 8, 2";
+                                                                    value6 = "Elektroujemność: 1,,25";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 1545°C";
+                                                                    value9 = "Temperatura Wrzenia: 1950°C";
+                                                                    value10 = "Odkryty: 1879 n.e.";
+                                                                    changeinfo();
+                                                                    } else if (pierwiastek == "70" || pierwiastek == "div70") {
+                                                                        value1 = "Nazwa: Iterb";
+                                                                        value2 = "Symbol: Yb";
+                                                                        value3 = "Typ: Latynowiec";
+                                                                        value4 = "Masa Atomowa: 173,045 u";
+                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 8, 2";
+                                                                        value6 = "Elektroujemność: 1,1";
+                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                        value8 = "Temperatura Topnienia: 824°C";
+                                                                        value9 = "Temperatura Wrzenia: 1196°C";
+                                                                        value10 = "Odkryty: 1878 n.e.";
+                                                                        changeinfo();
+                                                                        } else if (pierwiastek == "71" || pierwiastek == "div71") {
+                                                                            value1 = "Nazwa: Lutet";
+                                                                            value2 = "Symbol: Lu";
+                                                                            value3 = "Typ: Latynowiec";
+                                                                            value4 = "Masa Atomowa: 175,047 u";
+                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 9, 2";
+                                                                            value6 = "Elektroujemność: 1,27";
+                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                            value8 = "Temperatura Topnienia: 1663°C";
+                                                                            value9 = "Temperatura Wrzenia: 3402°C";
+                                                                            value10 = "Odkryty: 1907 n.e.";
+                                                                            changeinfo();
+                                                                            } else if (pierwiastek == "72" || pierwiastek == "div72") {
+                                                                                value1 = "Nazwa: Hafn";
+                                                                                value2 = "Symbol: Hf";
+                                                                                value3 = "Typ: Metale przejściowe";
+                                                                                value4 = "Masa Atomowa: 178,49 u";
+                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 10, 2";
+                                                                                value6 = "Elektroujemność: 1,3";
+                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                value8 = "Temperatura Topnienia: 2233°C";
+                                                                                value9 = "Temperatura Wrzenia: 4603°C";
+                                                                                value10 = "Odkryty: 1923 n.e.";
+                                                                                changeinfo();
+                                                                                } else if (pierwiastek == "73" || pierwiastek == "div73") {
+                                                                                    value1 = "Nazwa: Tantal";
+                                                                                    value2 = "Symbol: Ta";
+                                                                                    value3 = "Typ: Metale przejściowe";
+                                                                                    value4 = "Masa Atomowa: 180,94788 u";
+                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 11, 2";
+                                                                                    value6 = "Elektroujemność: 1,5";
+                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                    value8 = "Temperatura Topnienia: 3017°C";
+                                                                                    value9 = "Temperatura Wrzenia: 5458°C";
+                                                                                    value10 = "Odkryty: 1802 n.e.";
+                                                                                    changeinfo();
+                                                                                    } else if (pierwiastek == "74" || pierwiastek == "div74") {
+                                                                                        value1 = "Nazwa: Wolfram";
+                                                                                        value2 = "Symbol: W";
+                                                                                        value3 = "Typ: Metale przejściowe";
+                                                                                        value4 = "Masa Atomowa: 183,84 u";
+                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 12, 2";
+                                                                                        value6 = "Elektroujemność: 2,36";
+                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                        value8 = "Temperatura Topnienia: 3422°C";
+                                                                                        value9 = "Temperatura Wrzenia: 5555°C";
+                                                                                        value10 = "Odkryty: 1783 n.e.";
+                                                                                        changeinfo();
+                                                                                        } else if (pierwiastek == "75" || pierwiastek == "div75") {
+                                                                                            value1 = "Nazwa: Ren";
+                                                                                            value2 = "Symbol: Re";
+                                                                                            value3 = "Typ: Metale przejściowe";
+                                                                                            value4 = "Masa Atomowa: 186,207 u";
+                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 13, 2";
+                                                                                            value6 = "Elektroujemność: 1,9";
+                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                            value8 = "Temperatura Topnienia: 3186°C";
+                                                                                            value9 = "Temperatura Wrzenia: 5596°C";
+                                                                                            value10 = "Odkryty: 1925 n.e.";
+                                                                                            changeinfo();
+                                                                                            } else if (pierwiastek == "76" || pierwiastek == "div76") {
+                                                                                                value1 = "Nazwa: Osm";
+                                                                                                value2 = "Symbol: Os";
+                                                                                                value3 = "Typ: Metale przejściowe";
+                                                                                                value4 = "Masa Atomowa: 190,23 u";
+                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 14, 2";
+                                                                                                value6 = "Elektroujemność: 2,2";
+                                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                value8 = "Temperatura Topnienia: 3033°C";
+                                                                                                value9 = "Temperatura Wrzenia: 5012°C";
+                                                                                                value10 = "Odkryty: 1803 n.e.";
+                                                                                                changeinfo();
+                                                                                                } else if (pierwiastek == "77" || pierwiastek == "div77") {
+                                                                                                    value1 = "Nazwa: Iryd";
+                                                                                                    value2 = "Symbol: Ir";
+                                                                                                    value3 = "Typ: Metale przejściowe";
+                                                                                                    value4 = "Masa Atomowa: 192,217 u";
+                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 15, 2";
+                                                                                                    value6 = "Elektroujemność: 2,2";
+                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                    value8 = "Temperatura Topnienia: 2446°C";
+                                                                                                    value9 = "Temperatura Wrzenia: 4130°C";
+                                                                                                    value10 = "Odkryty: 1803 n.e.";
+                                                                                                    changeinfo();
+                                                                                                    } else if (pierwiastek == "78" || pierwiastek == "div78") {
+                                                                                                        value1 = "Nazwa: Platyna";
+                                                                                                        value2 = "Symbol: Pt";
+                                                                                                        value3 = "Typ: Metale przejściowe";
+                                                                                                        value4 = "Masa Atomowa: 195,084 u";
+                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 17, 1";
+                                                                                                        value6 = "Elektroujemność: 2,28";
+                                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                        value8 = "Temperatura Topnienia: 1768,3°C";
+                                                                                                        value9 = "Temperatura Wrzenia: 3825°C";
+                                                                                                        value10 = "Odkryty: 1735 n.e.";
+                                                                                                        changeinfo();
+                                                                                                        } else if (pierwiastek == "79" || pierwiastek == "div79") {
+                                                                                                            value1 = "Nazwa: Złoto";
+                                                                                                            value2 = "Symbol: Au";
+                                                                                                            value3 = "Typ: Metale przejściowe";
+                                                                                                            value4 = "Masa Atomowa: 196,96657 u";
+                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 1";
+                                                                                                            value6 = "Elektroujemność: 2,54";
+                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                            value8 = "Temperatura Topnienia: 1064,18°C";
+                                                                                                            value9 = "Temperatura Wrzenia: 2700°C";
+                                                                                                            value10 = "Odkryty: 2500 p.n.e.";
+                                                                                                            changeinfo();
+                                                                                                            } else if (pierwiastek == "80" || pierwiastek == "div80") {
+                                                                                                                value1 = "Nazwa: Rtęć";
+                                                                                                                value2 = "Symbol: Hg";
+                                                                                                                value3 = "Typ: Metale przejściowe";
+                                                                                                                value4 = "Masa Atomowa: 200,592 u";
+                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 2";
+                                                                                                                value6 = "Elektroujemność: 2,00";
+                                                                                                                value7 = "Stan Skupienia w 0°C: Ciecz";
+                                                                                                                value8 = "Temperatura Topnienia: -38,83°C";
+                                                                                                                value9 = "Temperatura Wrzenia: 356,73°C";
+                                                                                                                value10 = "Odkryty: 1500 p.n.e.";
+                                                                                                                changeinfo();
+                                                                                                                } else if (pierwiastek == "81" || pierwiastek == "div81") {
+                                                                                                                    value1 = "Nazwa: Tal";
+                                                                                                                    value2 = "Symbol: Tl";
+                                                                                                                    value3 = "Typ: Metale główne";
+                                                                                                                    value4 = "Masa Atomowa: 204,383 u";
+                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 3";
+                                                                                                                    value6 = "Elektroujemność: 2,04";
+                                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                    value8 = "Temperatura Topnienia: 304°C";
+                                                                                                                    value9 = "Temperatura Wrzenia: 1457°C";
+                                                                                                                    value10 = "Odkryty: 1861 n.e.";
+                                                                                                                    changeinfo();
+                                                                                                                    } else if (pierwiastek == "82" || pierwiastek == "div82") {
+                                                                                                                        value1 = "Nazwa: Ołów";
+                                                                                                                        value2 = "Symbol: Pb";
+                                                                                                                        value3 = "Typ: Metale główne";
+                                                                                                                        value4 = "Masa Atomowa: 207,2 u";
+                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 4";
+                                                                                                                        value6 = "Elektroujemność: 2,33";
+                                                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                        value8 = "Temperatura Topnienia: 327,46°C";
+                                                                                                                        value9 = "Temperatura Wrzenia: 1749°C";
+                                                                                                                        value10 = "Odkryty: 4000 p.n.e.";
+                                                                                                                        changeinfo();
+                                                                                                                        } else if (pierwiastek == "83" || pierwiastek == "div83") {
+                                                                                                                            value1 = "Nazwa: Bizmut";
+                                                                                                                            value2 = "Symbol: Bi";
+                                                                                                                            value3 = "Typ: Metale główne";
+                                                                                                                            value4 = "Masa Atomowa: 208,980 u";
+                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 5";
+                                                                                                                            value6 = "Elektroujemność: 2,02";
+                                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                            value8 = "Temperatura Topnienia: 271,4°C";
+                                                                                                                            value9 = "Temperatura Wrzenia: 1564°C";
+                                                                                                                            value10 = "Odkryty: 1400 n.e.";
+                                                                                                                            changeinfo();
+                                                                                                                            } else if (pierwiastek == "84" || pierwiastek == "div84") {
+                                                                                                                                value1 = "Nazwa: Polon";
+                                                                                                                                value2 = "Symbol: Po";
+                                                                                                                                value3 = "Typ: Metale główne";
+                                                                                                                                value4 = "Masa Atomowa: 209 u";
+                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 6";
+                                                                                                                                value6 = "Elektroujemność: 2,0";
+                                                                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                value8 = "Temperatura Topnienia: 254°C";
+                                                                                                                                value9 = "Temperatura Wrzenia: 962°C";
+                                                                                                                                value10 = "Odkryty: 1898 n.e.";
+                                                                                                                                changeinfo();
+                                                                                                                                } else if (pierwiastek == "85" || pierwiastek == "div85") {
+                                                                                                                                    value1 = "Nazwa: Astat";
+                                                                                                                                    value2 = "Symbol: At";
+                                                                                                                                    value3 = "Typ: Półmetal";
+                                                                                                                                    value4 = "Masa Atomowa: 210 u";
+                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 7";
+                                                                                                                                    value6 = "Elektroujemność: 2,2";
+                                                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                    value8 = "Temperatura Topnienia: 302°C";
+                                                                                                                                    value9 = "Temperatura Wrzenia: 350°C";
+                                                                                                                                    value10 = "Odkryty: 1940 n.e.";
+                                                                                                                                    changeinfo();
+                                                                                                                                    } else if (pierwiastek == "86" || pierwiastek == "div86") {
+                                                                                                                                        value1 = "Nazwa: Radon";
+                                                                                                                                        value2 = "Symbol: Rn";
+                                                                                                                                        value3 = "Typ: Gazy szlachetne";
+                                                                                                                                        value4 = "Masa Atomowa: 222 u";
+                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 8";
+                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                        value7 = "Stan Skupienia w 0°C: Gaz";
+                                                                                                                                        value8 = "Temperatura Topnienia: -71°C";
+                                                                                                                                        value9 = "Temperatura Wrzenia: -61,8°C";
+                                                                                                                                        value10 = "Odkryty: 1900 n.e.";
+                                                                                                                                        changeinfo();
+                                                                                                                                        } else if (pierwiastek == "87" || pierwiastek == "div87") {
+                                                                                                                                            value1 = "Nazwa: Frans";
+                                                                                                                                            value2 = "Symbol: Fr";
+                                                                                                                                            value3 = "Typ: Metale alkaliczne";
+                                                                                                                                            value4 = "Masa Atomowa: 223 u";
+                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 8, 1";
+                                                                                                                                            value6 = "Elektroujemność: 0,7";
+                                                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                            value8 = "Temperatura Topnienia: 27°C";
+                                                                                                                                            value9 = "Temperatura Wrzenia: 677°C";
+                                                                                                                                            value10 = "Odkryty: 1939 n.e.";
+                                                                                                                                            changeinfo();
+                                                                                                                                            } else if (pierwiastek == "88" || pierwiastek == "div88") {
+                                                                                                                                                value1 = "Nazwa: Rad";
+                                                                                                                                                value2 = "Symbol: Ra";
+                                                                                                                                                value3 = "Typ: Metale alkaliczne";
+                                                                                                                                                value4 = "Masa Atomowa: 226 u";
+                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 8, 2";
+                                                                                                                                                value6 = "Elektroujemność: 0,9";
+                                                                                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                value8 = "Temperatura Topnienia: 700°C";
+                                                                                                                                                value9 = "Temperatura Wrzenia: 1737°C";
+                                                                                                                                                value10 = "Odkryty: 1898 n.e.";
+                                                                                                                                                changeinfo();
+                                                                                                                                                } else if (pierwiastek == "89" || pierwiastek == "div89") {
+                                                                                                                                                    value1 = "Nazwa: Aktyn";
+                                                                                                                                                    value2 = "Symbol: Ac";
+                                                                                                                                                    value3 = "Typ: Aktynowce";
+                                                                                                                                                    value4 = "Masa Atomowa: 227 u";
+                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 9, 2";
+                                                                                                                                                    value6 = "Elektroujemność: 1,1";
+                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                    value8 = "Temperatura Topnienia: 1050°C";
+                                                                                                                                                    value9 = "Temperatura Wrzenia: 3200°C";
+                                                                                                                                                    value10 = "Odkryty: 1899 n.e.";
+                                                                                                                                                    changeinfo();
+                                                                                                                                                    } else if (pierwiastek == "90" || pierwiastek == "div90") {
+                                                                                                                                                        value1 = "Nazwa: Tor";
+                                                                                                                                                        value2 = "Symbol: Th";
+                                                                                                                                                        value3 = "Typ: Aktynowce";
+                                                                                                                                                        value4 = "Masa Atomowa: 232,038 u";
+                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 18, 10, 2";
+                                                                                                                                                        value6 = "Elektroujemność: 1,3";
+                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                        value8 = "Temperatura Topnienia: 1750°C";
+                                                                                                                                                        value9 = "Temperatura Wrzenia: 4790°C";
+                                                                                                                                                        value10 = "Odkryty: 1828 n.e.";
+                                                                                                                                                        changeinfo();
+                                                                                                                                                        } else if (pierwiastek == "91" || pierwiastek == "div91") {
+                                                                                                                                                            value1 = "Nazwa: Protaktyn";
+                                                                                                                                                            value2 = "Symbol: Pa";
+                                                                                                                                                            value3 = "Typ: Aktynowce";
+                                                                                                                                                            value4 = "Masa Atomowa: 231,03588 u";
+                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 20, 9, 2";
+                                                                                                                                                            value6 = "Elektroujemność: 1,5";
+                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                            value8 = "Temperatura Topnienia: 1568°C";
+                                                                                                                                                            value9 = "Temperatura Wrzenia: 4027°C";
+                                                                                                                                                            value10 = "Odkryty: 1913 n.e.";
+                                                                                                                                                            changeinfo();
+                                                                                                                                                            } else if (pierwiastek == "92" || pierwiastek == "div92") {
+                                                                                                                                                                value1 = "Nazwa: Uran";
+                                                                                                                                                                value2 = "Symbol: U";
+                                                                                                                                                                value3 = "Typ: Aktynowce";
+                                                                                                                                                                value4 = "Masa Atomowa: 238,05078 u";
+                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 21, 9, 2";
+                                                                                                                                                                value6 = "Elektroujemność: 1,38";
+                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                value8 = "Temperatura Topnienia: 1132,3°C";
+                                                                                                                                                                value9 = "Temperatura Wrzenia: 4131°C";
+                                                                                                                                                                value10 = "Odkryty: 1789 n.e.";
+                                                                                                                                                                changeinfo();
+                                                                                                                                                                } else if (pierwiastek == "93" || pierwiastek == "div93") {
+                                                                                                                                                                    value1 = "Nazwa: Neptun";
+                                                                                                                                                                    value2 = "Symbol: Np";
+                                                                                                                                                                    value3 = "Typ: Aktynowce";
+                                                                                                                                                                    value4 = "Masa Atomowa: 237 u";
+                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 22, 9, 2";
+                                                                                                                                                                    value6 = "Elektroujemność: 1,36";
+                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                    value8 = "Temperatura Topnienia: 640°C";
+                                                                                                                                                                    value9 = "Temperatura Wrzenia: 3902°C";
+                                                                                                                                                                    value10 = "Odkryty: 1940 n.e.";
+                                                                                                                                                                    changeinfo();
+                                                                                                                                                                    } else if (pierwiastek == "94" || pierwiastek == "div94") {
+                                                                                                                                                                        value1 = "Nazwa: Pluton";
+                                                                                                                                                                        value2 = "Symbol: Pu";
+                                                                                                                                                                        value3 = "Typ: Aktynowce";
+                                                                                                                                                                        value4 = "Masa Atomowa: 244 u";
+                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 24, 8, 2";
+                                                                                                                                                                        value6 = "Elektroujemność: 1,28";
+                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                        value8 = "Temperatura Topnienia: 640°C";
+                                                                                                                                                                        value9 = "Temperatura Wrzenia: około 3230°C";
+                                                                                                                                                                        value10 = "Odkryty: 1940 n.e.";
+                                                                                                                                                                        changeinfo();
+                                                                                                                                                                        } else if (pierwiastek == "95" || pierwiastek == "div95") {
+                                                                                                                                                                            value1 = "Nazwa: Ameryk";
+                                                                                                                                                                            value2 = "Symbol: Am";
+                                                                                                                                                                            value3 = "Typ: Aktynowce";
+                                                                                                                                                                            value4 = "Masa Atomowa: 243 u";
+                                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 25, 8, 2";
+                                                                                                                                                                            value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                            value8 = "Temperatura Topnienia: 1176°C";
+                                                                                                                                                                            value9 = "Temperatura Wrzenia: około 2607°C";
+                                                                                                                                                                            value10 = "Odkryty: 1944 n.e.";
+                                                                                                                                                                            changeinfo();
+                                                                                                                                                                            } else if (pierwiastek == "96" || pierwiastek == "div96") {
+                                                                                                                                                                                value1 = "Nazwa: Kiur";
+                                                                                                                                                                                value2 = "Symbol: Cm";
+                                                                                                                                                                                value3 = "Typ: Aktynowce";
+                                                                                                                                                                                value4 = "Masa Atomowa: 247 u";
+                                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 25, 9, 2";
+                                                                                                                                                                                value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                value8 = "Temperatura Topnienia: około 1340°C";
+                                                                                                                                                                                value9 = "Temperatura Wrzenia: około 3110°C";
+                                                                                                                                                                                value10 = "Odkryty: 1944 n.e.";
+                                                                                                                                                                                changeinfo();
+                                                                                                                                                                                } else if (pierwiastek == "97" || pierwiastek == "div97") {
+                                                                                                                                                                                    value1 = "Nazwa: Berkel";
+                                                                                                                                                                                    value2 = "Symbol: Bk";
+                                                                                                                                                                                    value3 = "Typ: Aktynowce";
+                                                                                                                                                                                    value4 = "Masa Atomowa: 247 u";
+                                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 27, 8, 2";
+                                                                                                                                                                                    value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                    value8 = "Temperatura Topnienia: około 986°C";
+                                                                                                                                                                                    value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                    value10 = "Odkryty: 1949 n.e.";
+                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                    } else if (pierwiastek == "98" || pierwiastek == "div98") {
+                                                                                                                                                                                        value1 = "Nazwa: Kaliforn";
+                                                                                                                                                                                        value2 = "Symbol: Cf";
+                                                                                                                                                                                        value3 = "Typ: Aktynowce";
+                                                                                                                                                                                        value4 = "Masa Atomowa: 251 u";
+                                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 28, 8, 2";
+                                                                                                                                                                                        value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                        value8 = "Temperatura Topnienia: około 900°C";
+                                                                                                                                                                                        value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                        value10 = "Odkryty: 1950 n.e.";
+                                                                                                                                                                                        changeinfo();
+                                                                                                                                                                                        } else if (pierwiastek == "99" || pierwiastek == "div99") {
+                                                                                                                                                                                            value1 = "Nazwa: Einstein";
+                                                                                                                                                                                            value2 = "Symbol: Es";
+                                                                                                                                                                                            value3 = "Typ: Aktynowce";
+                                                                                                                                                                                            value4 = "Masa Atomowa: 252 u";
+                                                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 29, 8, 2";
+                                                                                                                                                                                            value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                            value8 = "Temperatura Topnienia: około 860°C";
+                                                                                                                                                                                            value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                            value10 = "Odkryty: 1952 n.e.";
+                                                                                                                                                                                            changeinfo();
+                                                                                                                                                                                            } else if (pierwiastek == "100" || pierwiastek == "div100") {
+                                                                                                                                                                                                value1 = "Nazwa: Ferm";
+                                                                                                                                                                                                value2 = "Symbol: Fm";
+                                                                                                                                                                                                value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                value4 = "Masa Atomowa: 257 u";
+                                                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 30, 8, 2";
+                                                                                                                                                                                                value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                                value8 = "Temperatura Topnienia: około 1527°C";
+                                                                                                                                                                                                value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                value10 = "Odkryty: 1952 n.e.";
+                                                                                                                                                                                                changeinfo();
+                                                                                                                                                                                                } else if (pierwiastek == "101" || pierwiastek == "div101") {
+                                                                                                                                                                                                    value1 = "Nazwa: Mendelew";
+                                                                                                                                                                                                    value2 = "Symbol: Md";
+                                                                                                                                                                                                    value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                    value4 = "Masa Atomowa: 258 u";
+                                                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 31, 8, 2";
+                                                                                                                                                                                                    value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                                    value8 = "Temperatura Topnienia: około 827°C";
+                                                                                                                                                                                                    value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                    value10 = "Odkryty: 1955 n.e.";
+                                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                                    } else if (pierwiastek == "102" || pierwiastek == "div102") {
+                                                                                                                                                                                                        value1 = "Nazwa: Nobel";
+                                                                                                                                                                                                        value2 = "Symbol: No";
+                                                                                                                                                                                                        value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                        value4 = "Masa Atomowa: 259 u";
+                                                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 8, 2";
+                                                                                                                                                                                                        value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                                        value8 = "Temperatura Topnienia: około 825°C";
+                                                                                                                                                                                                        value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                        value10 = "Odkryty: 1958 n.e.";
+                                                                                                                                                                                                        changeinfo();
+                                                                                                                                                                                                        } else if (pierwiastek == "103" || pierwiastek == "div103") {
+                                                                                                                                                                                                            value1 = "Nazwa: Lorens";
+                                                                                                                                                                                                            value2 = "Symbol: Lr";
+                                                                                                                                                                                                            value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                            value4 = "Masa Atomowa: 266 u";
+                                                                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 8, 3";
+                                                                                                                                                                                                            value6 = "Elektroujemność: 1,3";
+                                                                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                                                                                                                                                            value8 = "Temperatura Topnienia: około 1629°C";
+                                                                                                                                                                                                            value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                            value10 = "Odkryty: 1961 n.e.";
+                                                                                                                                                                                                            changeinfo();
+                                                                                                                                                                                                            } else if (pierwiastek == "104" || pierwiastek == "div104") {
+                                                                                                                                                                                                                value1 = "Nazwa: Ruthenford";
+                                                                                                                                                                                                                value2 = "Symbol: Rf";
+                                                                                                                                                                                                                value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                value4 = "Masa Atomowa: 267 u";
+                                                                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 10, 2";
+                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                value8 = "Temperatura Topnienia: około 2400°C";
+                                                                                                                                                                                                                value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                value10 = "Odkryty: 1964 n.e.";
+                                                                                                                                                                                                                changeinfo();
+                                                                                                                                                                                                                } else if (pierwiastek == "105" || pierwiastek == "div105") {
+                                                                                                                                                                                                                    value1 = "Nazwa: Dubn";
+                                                                                                                                                                                                                    value2 = "Symbol: Db";
+                                                                                                                                                                                                                    value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                    value4 = "Masa Atomowa: 270 u";
+                                                                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 11, 2";
+                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                    value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                    value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                    value10 = "Odkryty: 1967 n.e.";
+                                                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                                                    } else if (pierwiastek == "106" || pierwiastek == "div106") {
+                                                                                                                                                                                                                        value1 = "Nazwa: Seaborg";
+                                                                                                                                                                                                                        value2 = "Symbol: Sg";
+                                                                                                                                                                                                                        value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                        value4 = "Masa Atomowa: 269 u";
+                                                                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 12, 2";
+                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                        value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                        value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                        value10 = "Odkryty: 1974 n.e.";
+                                                                                                                                                                                                                        changeinfo();
+                                                                                                                                                                                                                        } else if (pierwiastek == "107" || pierwiastek == "div107") {
+                                                                                                                                                                                                                            value1 = "Nazwa: Bohr";
+                                                                                                                                                                                                                            value2 = "Symbol: Bh";
+                                                                                                                                                                                                                            value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                            value4 = "Masa Atomowa: 270 u";
+                                                                                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 13, 2";
+                                                                                                                                                                                                                            value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                            value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                            value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                            value10 = "Odkryty: 1976 n.e.";
+                                                                                                                                                                                                                            changeinfo();
+                                                                                                                                                                                                                            } else if (pierwiastek == "108" || pierwiastek == "div108") {
+                                                                                                                                                                                                                                value1 = "Nazwa: Has";
+                                                                                                                                                                                                                                value2 = "Symbol: Hs";
+                                                                                                                                                                                                                                value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                                value4 = "Masa Atomowa: 277 u";
+                                                                                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 14, 2";
+                                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                                value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                                value10 = "Odkryty: 1984 n.e.";
+                                                                                                                                                                                                                                changeinfo();
+                                                                                                                                                                                                                                } else if (pierwiastek == "109" || pierwiastek == "div109") {
+                                                                                                                                                                                                                                    value1 = "Nazwa: Meitner";
+                                                                                                                                                                                                                                    value2 = "Symbol: Mt";
+                                                                                                                                                                                                                                    value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                                    value4 = "Masa Atomowa: 278 u";
+                                                                                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 15, 2";
+                                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                    value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                                    value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                                    value10 = "Odkryty: 1982 n.e.";
+                                                                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                                                                    } else if (pierwiastek == "110" || pierwiastek == "div110") {
+                                                                                                                                                                                                                                        value1 = "Nazwa: Darmsztadt";
+                                                                                                                                                                                                                                        value2 = "Symbol: Ds";
+                                                                                                                                                                                                                                        value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                                        value4 = "Masa Atomowa: 281 u";
+                                                                                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 17, 1";
+                                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                        value8 = "Temperatura Topnienia: nieznana";
+                                                                                                                                                                                                                                        value9 = "Temperatura Wrzenia: nieznana";
+                                                                                                                                                                                                                                        value10 = "Odkryty: 1994 n.e";
+                                                                                                                                                                                                                                        changeinfo();
+                                                                                                                                                                                                                                        } else if (pierwiastek == "111" || pierwiastek == "div111") {
+                                                                                                                                                                                                                                            value1 = "Nazwa: Roentgen";
+                                                                                                                                                                                                                                            value2 = "Symbol: Rg";
+                                                                                                                                                                                                                                            value3 = "Typ: Aktynowce";
+                                                                                                                                                                                                                                            value4 = "Masa Atomowa: 280 u";
+                                                                                                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 17, 2";
+                                                                                                                                                                                                                                            value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                            value8 = "Temperatura Topnienia: nieznana";
+                                                                                                                                                                                                                                            value9 = "Temperatura Wrzenia: nieznana";
+                                                                                                                                                                                                                                            value10 = "Odkryty: 1994 n.e";
+                                                                                                                                                                                                                                            changeinfo();
+                                                                                                                                                                                                                                            } else if (pierwiastek == "112" || pierwiastek == "div112") {
+                                                                                                                                                                                                                                                value1 = "Nazwa: Kopernik";
+                                                                                                                                                                                                                                                value2 = "Symbol: Cn";
+                                                                                                                                                                                                                                                value3 = "Typ: Metale przejściowe";
+                                                                                                                                                                                                                                                value4 = "Masa Atomowa: 285 u";
+                                                                                                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 2";
+                                                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                value8 = "Temperatura Topnienia: nieznana";
+                                                                                                                                                                                                                                                value9 = "Temperatura Wrzenia: nieznana";
+                                                                                                                                                                                                                                                value10 = "Odkryty: 1996 n.e.";
+                                                                                                                                                                                                                                                changeinfo();
+                                                                                                                                                                                                                                                } else if (pierwiastek == "113" || pierwiastek == "div113") {
+                                                                                                                                                                                                                                                    value1 = "Nazwa: Nihon";
+                                                                                                                                                                                                                                                    value2 = "Symbol: Nh";
+                                                                                                                                                                                                                                                    value3 = "Typ: Metale przejściowe";
+                                                                                                                                                                                                                                                    value4 = "Masa Atomowa: 284 u";
+                                                                                                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 3";
+                                                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                    value8 = "Temperatura Topnienia: nieznana";
+                                                                                                                                                                                                                                                    value9 = "Temperatura Wrzenia: nieznana";
+                                                                                                                                                                                                                                                    value10 = "Odkryty: 2004 n.e.";
+                                                                                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                                                                                    } else if (pierwiastek == "114" || pierwiastek == "div114") {
+                                                                                                                                                                                                                                                        value1 = "Nazwa: Flerovium";
+                                                                                                                                                                                                                                                        value2 = "Symbol: Fl";
+                                                                                                                                                                                                                                                        value3 = "Typ: Metale przejściowe";
+                                                                                                                                                                                                                                                        value4 = "Masa Atomowa: 289 u";
+                                                                                                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 4";
+                                                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                        value8 = "Temperatura Topnienia: nieznana";
+                                                                                                                                                                                                                                                        value9 = "Temperatura Wrzenia: nieznana";
+                                                                                                                                                                                                                                                        value10 = "Odkryty: 1998 n.e.";
+                                                                                                                                                                                                                                                        changeinfo();
+                                                                                                                                                                                                                                                        } else if (pierwiastek == "115" || pierwiastek == "div115") {
+                                                                                                                                                                                                                                                            value1 = "Nazwa: Moskow";
+                                                                                                                                                                                                                                                            value2 = "Symbol: Mc";
+                                                                                                                                                                                                                                                            value3 = "Typ: Superaktynowce";
+                                                                                                                                                                                                                                                            value4 = "Masa Atomowa: 289 u";
+                                                                                                                                                                                                                                                            value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 5";
+                                                                                                                                                                                                                                                            value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                            value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                            value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                                                            value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                                                            value10 = "Odkryty: 2003 n.e";
+                                                                                                                                                                                                                                                            changeinfo();
+                                                                                                                                                                                                                                                            } else if (pierwiastek == "116" || pierwiastek == "div116") {
+                                                                                                                                                                                                                                                                value1 = "Nazwa: Liwermor";
+                                                                                                                                                                                                                                                                value2 = "Symbol: Lv";
+                                                                                                                                                                                                                                                                value3 = "Typ: Superaktynowce";
+                                                                                                                                                                                                                                                                value4 = "Masa Atomowa: 293 u";
+                                                                                                                                                                                                                                                                value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 6";
+                                                                                                                                                                                                                                                                value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                                value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                                value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                                                                value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                                                                value10 = "Odkryty: 2000 n.e";
+                                                                                                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                                                                                                } else if (pierwiastek == "117" || pierwiastek == "div117") {
+                                                                                                                                                                                                                                                                    value1 = "Nazwa: Tenes";
+                                                                                                                                                                                                                                                                    value2 = "Symbol: Ts";
+                                                                                                                                                                                                                                                                    value3 = "Typ: Superaktynowce";
+                                                                                                                                                                                                                                                                    value4 = "Masa Atomowa: 294 u";
+                                                                                                                                                                                                                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 7";
+                                                                                                                                                                                                                                                                    value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                                    value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                                    value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                                                                    value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                                                                    value10 = "Odkryty: 2010 n.e";
+                                                                                                                                                                                                                                                                    changeinfo();
+                                                                                                                                                                                                                                                                    } else if (pierwiastek == "118" || pierwiastek == "div118") {
+                                                                                                                                                                                                                                                                        value1 = "Nazwa: Oganeson";
+                                                                                                                                                                                                                                                                        value2 = "Symbol: Og";
+                                                                                                                                                                                                                                                                        value3 = "Typ: Superaktynowce";
+                                                                                                                                                                                                                                                                        value4 = "Masa Atomowa: 294 u";
+                                                                                                                                                                                                                                                                        value5 = "Powłoki Elektronowe: 2, 8, 18, 32, 32, 18, 8";
+                                                                                                                                                                                                                                                                        value6 = "Elektroujemność: -";
+                                                                                                                                                                                                                                                                        value7 = "Stan Skupienia w 0°C: Nieznane";
+                                                                                                                                                                                                                                                                        value8 = "Temperatura Topnienia: Nieznane";
+                                                                                                                                                                                                                                                                        value9 = "Temperatura Wrzenia: Nieznane";
+                                                                                                                                                                                                                                                                        value10 = "Odkryty: 2002 n.e";
+                                                                                                                                                                                                                                                                        changeinfo();
+                                                                                                                                                                                                                                                                        }
 
     
     function changeinfo() {

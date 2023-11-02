@@ -1,6 +1,5 @@
 Projekt Chemia:
 Do zrobienia:
-- dodanie id="divN" do każdego pierwiastka buttona gdzie N = Numer Pierwiastka
 - dodanie klasy N do tekstów <small> w pierwiastkach gdzie N = Numer Pierwiastka
 - uzupełnienie dalszych pierwiastków wedle wzoru "wzór js", informacje brać z ptable.com
 
