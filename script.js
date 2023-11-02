@@ -201,9 +201,69 @@ function info() {
                                                                     value5 = "Powłoki Elektronowe: 2, 8, 6";
                                                                     value6 = "Elektroujemność: 2,58";
                                                                     value7 = "Stan Skupienia w 0°C: Ciało stałe";
-                                                                    value8 = "Temperatura Topnienia: 115.21°C";
+                                                                    value8 = "Temperatura Topnienia: 115,21°C";
                                                                     value9 = "Temperatura Wrzenia: 444,72°C";
                                                                     value10 = "Odkryty: 500 p.n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "47" || pierwiastek == "div47"){
+                                                                    value1 = "Nazwa: Srebro";
+                                                                    value2 = "Symbol: Ag";
+                                                                    value3 = "Typ: Metale przejściowe";
+                                                                    value4 = "Masa Atomowa: 107,8682u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 1";
+                                                                    value6 = "Elektroujemność: 1,93";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 961,780°C";
+                                                                    value9 = "Temperatura Wrzenia: 2162°C";
+                                                                    value10 = "Odkryty: 3000 p.n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "48" || pierwiastek == "div48"){
+                                                                    value1 = "Nazwa: Kadm";
+                                                                    value2 = "Symbol: Cd";
+                                                                    value3 = "Typ: Metale przejściowe";
+                                                                    value4 = "Masa Atomowa: 112,414u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 2";
+                                                                    value6 = "Elektroujemność: 1,69";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 321,07°C";
+                                                                    value9 = "Temperatura Wrzenia: 766,9°C";
+                                                                    value10 = "Odkryty: 1817 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "49" || pierwiastek == "div49"){
+                                                                    value1 = "Nazwa: Ind";
+                                                                    value2 = "Symbol: In";
+                                                                    value3 = "Typ: Metale Nieszlachetne";
+                                                                    value4 = "Masa Atomowa: 114,818u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 3";
+                                                                    value6 = "Elektroujemność: 1,78";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 156,60°C";
+                                                                    value9 = "Temperatura Wrzenia: 2072°C";
+                                                                    value10 = "Odkryty: 1863 n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "50" || pierwiastek == "div50"){
+                                                                    value1 = "Nazwa: Cyna";
+                                                                    value2 = "Symbol: Sn";
+                                                                    value3 = "Typ: Metale Nieszlachetne";
+                                                                    value4 = "Masa Atomowa: 118,710u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 4";
+                                                                    value6 = "Elektroujemność: 1,96";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 231,93°C";
+                                                                    value9 = "Temperatura Wrzenia: 2602°C";
+                                                                    value10 = "Odkryty: 3000 p.n.e.";
+                                                                    changeinfo();
+                                                                } else if (pierwiastek == "51" || pierwiastek == "div51"){
+                                                                    value1 = "Nazwa: Antymon";
+                                                                    value2 = "Symbol: Sb";
+                                                                    value3 = "Typ: Półmetale";
+                                                                    value4 = "Masa Atomowa: 121,760u";
+                                                                    value5 = "Powłoki Elektronowe: 2, 8, 18, 18, 5";
+                                                                    value6 = "Elektroujemność: 2,05";
+                                                                    value7 = "Stan Skupienia w 0°C: Ciało stałe";
+                                                                    value8 = "Temperatura Topnienia: 630,63°C";
+                                                                    value9 = "Temperatura Wrzenia: 1587°C";
+                                                                    value10 = "Odkryty: 3000 p.n.e.";
                                                                     changeinfo();
                                                                 }
 
