@@ -1,10 +1,13 @@
 Projekt Chemia:
 Do zrobienia:
-- zmiana divów z pierwiastkami na buttony
-- dodanie onclick="info()" do pierwsiastków buttonów
 - dodanie id="divN" do każdego pierwiastka buttona gdzie N = Numer Pierwiastka
 - dodanie klasy N do tekstów <small> w pierwiastkach gdzie N = Numer Pierwiastka
 - uzupełnienie dalszych pierwiastków wedle wzoru "wzór js", informacje brać z ptable.com
+
+Pierwiastki do zrobienia w js:
+Mateusz - 17 -> 46
+Filip 47 -> 68
+Rafał 69 -> 118
 
 Wzór js:
                                 } else if (pierwiastek == "8" || pierwiastek == "div8"){
