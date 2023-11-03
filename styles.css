@@ -54,11 +54,59 @@ header {
     padding-right: 10px;
     width: 80%;
     margin: auto;
+    animation: dashBorder 2.5s infinite alternate;
+}
+
+
+
+
+@keyframes dashBorder {
+    0% {
+        border-color: #FF2E63;
+    }
+    25% {
+        border-color: #F47C7C
+    }
+    50% {
+        border-color: #EF9F9F
+    }
+    75% {
+        border-color: #FAD4D4
+    }
+    100% {
+        border-color: rgb(224, 67, 96);
+    }
+}  
+
+
+
+
+.naglowek:hover {
+    animation: textAnimation 3s linear infinite;
+}
+
+/* Definicja animacji CSS */
+@keyframes textAnimation {
+    0% {
+        transform: scale(1);
+        /* color: rgb(255, 255, 255); */
+    }
+    50% {
+        transform: scale(1.05);
+        /* color: rgb(255, 255, 255); */
+    }
+    75% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+        /* color: rgb(255, 255, 255); */
+    }
 }
 
 
 .element {
-    border: 1px solid black;
+    border: 1px solid #222831;
     text-align: center;
     padding: 0.938rem 0;
     transition: transform .2s;
@@ -69,6 +117,7 @@ header {
     border: 0px;
     border-radius: 25%;
 }
+
 
 .description {
     display: block;
